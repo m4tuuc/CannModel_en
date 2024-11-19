@@ -21,10 +21,11 @@ Un sistema de recomendación basado en BERT para sugerir variedades de cannabis 
 
 
 ## Crea un entorno virtual
- python -m venv venv
+```bash 
+python -m venv venv
 source venv/bin/activate   # En Linux/Mac
 venv\Scripts\activate 
-
+```
 
 ## Ejecuta la aplicación Streamlit:
 

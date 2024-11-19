@@ -1,6 +1,8 @@
 # Cannabis Strain Recommender 🌿
 
-Un sistema de recomendación basado en BERT para sugerir variedades de cannabis (cepas) según una descripción proporcionada. La aplicación está desarrollada con **Streamlit**.
+Un sistema de recomendación basado en BERT para sugerir variedades de cannabis (cepas) según una descripción proporcionada. La aplicación está desarrollada con **Streamlit**. 
+
+basado en https://www.kaggle.com/code/kabure/cannabis-species-eda-and-models-pipeline
 
 ## Características
 

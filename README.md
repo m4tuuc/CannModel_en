@@ -22,7 +22,7 @@ basado en https://www.kaggle.com/code/kabure/cannabis-species-eda-and-models-pip
 ## 1.Instalación
 
 **Clona el repositorio**:
-
+git clone https://github.com/m4tuuc/CannModel_en.git
 
 ## Crea un entorno virtual
 ```bash 

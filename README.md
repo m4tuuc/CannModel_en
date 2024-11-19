@@ -39,7 +39,7 @@ python training.py
 ```
 
 o puedes bajarlo de aqui:
-https://drive.google.com/drive/folders/1aexXKnqbECnIBJYtfRuynm1PZmHHrEdg?usp=sharing
+https://drive.google.com/drive/folders/19Jv73Ml5hL32gWH8KSQprxSzlZfLSEoy?usp=sharing
 
 ---
 

@@ -33,12 +33,19 @@ source venv/bin/activate   # En Linux/Mac
 venv\Scripts\activate 
 ```
 
-**1a. Entrena el modelo
+**1a. Nos dirigimos al directorio
+
+```bash 
+cd/tu_directorio/CannModel/src
+```
+
+**1b. Entrena el modelo
 ```bash 
 python training.py 
 ```
 
-o puedes bajarlo de aqui:
+
+o puedes bajarl el modelo de aqui:
 https://drive.google.com/drive/folders/19Jv73Ml5hL32gWH8KSQprxSzlZfLSEoy?usp=sharing
 
 ---

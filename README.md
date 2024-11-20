@@ -11,10 +11,10 @@ basado en https://www.kaggle.com/code/kabure/cannabis-species-eda-and-models-pip
 - **Predicción de cepas**: Recomienda variedades de cannabis basadas en descripciones de efectos deseados, sabores o usos.
 - **Información detallada**: Devuelve información adicional, como efectos, sabores y usos recomendados.
 
----
 
 
-## Requisitos
+
+## Instalar los requirements
 
 `pip install -r requirements.txt`
 
@@ -33,13 +33,13 @@ source venv/bin/activate   # En Linux/Mac
 venv\Scripts\activate 
 ```
 
-**1a. Nos dirigimos al directorio
+*1a. Nos dirigimos al directorio*
 
 ```bash 
 cd/tu_directorio/CannModel/src
 ```
 
-**1b. Entrena el modelo
+*1b. Entrena el modelo*
 ```bash 
 python training.py 
 ```
@@ -52,9 +52,10 @@ https://drive.google.com/drive/folders/19Jv73Ml5hL32gWH8KSQprxSzlZfLSEoy?usp=sha
 
 ## 2.Ejecuta la aplicación Streamlit:
 
+Dentro del directorio vamos a la carpeta Streamlit y en la terminal ejecutamos:
 `streamlit run app.py` 
-Abre tu navegador e ingresa a http://localhost:8501.
 
+*Abre tu navegador e ingresa a http://localhost:8501.*
 
 
 ## Uso del modelo 

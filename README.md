@@ -4,7 +4,7 @@ Un sistema de recomendación basado en BERT para sugerir variedades de cannabis 
 
 basado en https://www.kaggle.com/code/kabure/cannabis-species-eda-and-models-pipeline
 
-**NOTA: ESTE MODELO TODAVIA ESTA EN DESARROLLO Y TARDA UN ESTIMADO DE 1min.30seg EN DAR LA RESPUESTA, CUALQUIER CONTRIBUCION PARA EL DESARROLLO DEL MISMO ES BIENVENIDO.**
+**NOTA: NOTEBOOK GOOGLE COLAB TODAVAI EN FASE DE PRUEBA YA DISPONIBLE PARA SU USO.**
 
 ## Características
 
